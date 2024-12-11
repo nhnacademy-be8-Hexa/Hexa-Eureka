@@ -1,1 +1,4 @@
-# hello-spring
+# hexa-eureka
+
+port = 8761
+
